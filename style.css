@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* individual */
+p { color: #FFFFFF;  }
+h1 { color:#A34547; }
+h2 {color:#FFFFFF; }
+h3 {color:#FF0004; }
+/* common to all tags */
+h1, h2, p, h3 { font-family: gotham, "Helectica Neue" ,
+helectiva, Arial, "sans-serif";
+}
+
+/* using class and ID */
+#main { border: #ccc solid 2px; padding: 5px; }
+
+
+/* CSS for footer */
+.footer {
+display: flex;
+justify-content: space-between;
+align-items: LEFT;
+background-color: #000000;
+padding: 10PX;
+background-size :cover;
+}
+
+.footer .copy {
+color: #FF0000;
+font-size: 25px;
+}
+
+.bottom-links {
+display: flex;
+justify-content: space-around;
+align-items: LEFT;
+padding: 20px 0;
+}
+
+.bottom-links .links {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: LEFT;
+padding: 0 20px;
+}
+
+.bottom-links .links span {
+font-size: 25px;
+color: #FFFFFF;
+text-transform: uppercase;
+margin: 10px 0;
+}
+
+.bottom-links .links a {
+font-size: 30px;
+text-decoration: none;
+color: #FFFFFF;
+padding: 10px 20px;
+align-content: center
+}
