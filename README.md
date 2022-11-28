@@ -1,7 +1,7 @@
 # Assignment01
 
 Your Project's Name
-Project Example Idea 2 - Website for fictional company
+'Project Example Idea 2 - Website for fictional company'
 
 My Fictional Company will sell lightsabers from the Star Wars series to people. We will provide good quality & affordable lightsabers for our customers.
 
