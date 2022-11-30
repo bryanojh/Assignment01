@@ -3,8 +3,7 @@
 Your Project's Name
 'Project Example Idea 2 - Website for fictional company'
 
-My Fictional Company will sell lightsabers from the Star Wars series to people. We will provide good quality & affordable lightsabers for our customers.
-
+My Fictional Company will sell Football Cleats to people. We will provide good quality cleats for our customers in Singapore so they need not ship their orders from overseas.
 
 Design Process
 Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
@@ -44,14 +43,13 @@ You should also mention in this section any interesting bugs or problems you dis
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 Credits
+Product images and features were obtained from Weston Corp & goalinn
 Content
 The text for section Y was copied from the Wikipedia article Z
 Media
 The photos used in this site were obtained from ...
 Acknowledgements
 I received inspiration for this project from X
-
-
 
 Initial Wireframe for our website can be found here -> ""
 Pages included in our website
