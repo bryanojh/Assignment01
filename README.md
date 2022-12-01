@@ -43,7 +43,10 @@ You should also mention in this section any interesting bugs or problems you dis
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 Credits
+Products sold are taken from Puma, Adidas & Nike
 Product images and features were obtained from Weston Corp & goalinn
+Logo for website from canva.com
+
 Content
 The text for section Y was copied from the Wikipedia article Z
 Media
