@@ -184,6 +184,10 @@ align-content: center
     width: 35%;
 }
 
+.cart-size {
+    width: 35%;
+}
+
 .cart-item-title {
     color: #FFFFFF;
     margin-left: .5em;
@@ -238,7 +242,7 @@ align-content: center
 .cart-total-title {
     font-weight: bold;
     font-size: 1.5em;
-    color: black;
+    color: #FFFFFF;
     margin-right: 20px;
 }
 
