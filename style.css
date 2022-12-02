@@ -15,7 +15,7 @@ helectiva, Arial, "sans-serif";
 /* using class and ID */
 #main { border: #ccc solid 2px; padding: 5px; }
 
-@media screen and (max-width: 600px) {
+/* @media screen and (max-width: 600px) {
     .mobile {
         flex-direction: column;
     }
@@ -29,7 +29,7 @@ helectiva, Arial, "sans-serif";
 .split {
     padding: 20px;
     flex: 100%;
-}
+} */
 
 .center {
     display: block;
