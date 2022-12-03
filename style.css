@@ -17,6 +17,7 @@ helectiva, Arial, "sans-serif";
 
 .box {
     display: flex;
+    align-items: center;
 }
 
 .center {
