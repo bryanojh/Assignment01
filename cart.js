@@ -80,10 +80,14 @@ function addItemToCart(title, price, imageSrc) {
             <input class="cart-quantity-input" type="number" value="1">
             <button class="btn btn-danger" type="button">REMOVE</button>
         </div>`
+        // <div class="cart-size cart-column">
+        //     <input class=cart-size-input type="number" value="35">
+
     cartRow.innerHTML = cartRowContents
     cartItems.append(cartRow)
     cartRow.getElementsByClassName('btn-danger')[0].addEventListener('click', removeCartItem)
     cartRow.getElementsByClassName('cart-quantity-input')[0].addEventListener('change', quantityChanged)
+    // cartRow.getElementsByClassName('cart-size-input')[0].addEventListener('change', quantityChanged)
 }
 
 function updateCartTotal() {
@@ -94,6 +98,7 @@ function updateCartTotal() {
         var cartRow = cartRows[i]
         var priceElement = cartRow.getElementsByClassName('cart-price')[0]
         var quantityElement = cartRow.getElementsByClassName('cart-quantity-input')[0]
+        // var sizeElement = cartRow.getElementsByClassName('cart-size')[0]
         var price = parseFloat(priceElement.innerText.replace('$', ''))
         var quantity = quantityElement.value
         total = total + (price * quantity)

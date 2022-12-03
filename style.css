@@ -201,7 +201,7 @@ align-content: center
 }
 
 .cart-size {
-    width: 35%;
+    width: 20%;
 }
 
 .cart-item-title {
@@ -240,6 +240,19 @@ align-content: center
     font-size: 1.2em;
     margin-right: 25px;
 }
+
+/* .cart-size-input {
+    height: 34px;
+    width: 50px;
+    border-radius: 5px;
+    border: 1px solid #56CCF2;
+    background-color: #eee;
+    color: #333;
+    padding: 0;
+    text-align: center;
+    font-size: 1.2em;
+    margin-right: 25px;
+} */
 
 .cart-row:last-child {
     border-bottom: 1px solid black;
@@ -289,18 +302,6 @@ align-content: center
   
   .wrapper .input_field{
     margin-bottom: 10px;
-  }
-  
-  .wrapper .input_field input[type="text"],
-  .wrapper textarea{
-    border: 1px solid #e0e0e0;
-    width: 100%;
-    padding: 10px;
-  }
-  
-  .wrapper textarea{
-    resize: none;
-    height: 80px;
   }
   
   .wrapper .btn input[type="submit"]{
