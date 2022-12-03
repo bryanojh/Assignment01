@@ -91,6 +91,7 @@ align-content: center
     transform: scale(1.2);
 }
 
+/*Products*/
 .btn {
     text-align: center;
     vertical-align: middle;
@@ -272,3 +273,56 @@ align-content: center
     margin: 40px auto 80px auto;
     font-size: 1.75em;
 }
+
+/* Contact Form*/
+.wrapper{
+    max-width: 350px;
+    width: 100%; 
+    padding: 25px;
+  }
+  
+  .wrapper h2{
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #fece0c;
+  }
+  
+  .wrapper .input_field{
+    margin-bottom: 10px;
+  }
+  
+  .wrapper .input_field input[type="text"],
+  .wrapper textarea{
+    border: 1px solid #e0e0e0;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .wrapper textarea{
+    resize: none;
+    height: 80px;
+  }
+  
+  .wrapper .btn input[type="submit"]{
+    border: 0px;
+    margin-top: 15px;
+    padding: 10px;
+    width: 100%;
+    background: #fece0c;
+    color: #332902;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: bold;
+    border-radius: 25px;
+    cursor: pointer;
+  }
+  
+  #error_message{
+    margin-bottom: 20px;
+    background: #fe8b8e;
+    padding: 0px;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.5s ease;
+  }
