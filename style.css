@@ -15,10 +15,14 @@ helectiva, Arial, "sans-serif";
 /* using class and ID */
 #main { border: #ccc solid 2px; padding: 5px; }
 
-/* .box {
+.box {
     display: flex;
-    align-items: center;
-} */
+} 
+
+.box div{
+    border:1px #ccc solid;
+    padding: 10px;
+}
 
 .center {
     display: block;
