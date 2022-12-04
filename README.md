@@ -67,3 +67,4 @@ Products sold are taken from Puma, Adidas & Nike
 Product images and features were obtained from Weston Corp & goalinn
 Logo for website from canva.com
 Inspiration for this project came from Weston Corp & Unisport
+Parts of code taken from W3schools as reference/guidance
